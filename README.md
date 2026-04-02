@@ -5,10 +5,12 @@ The purpose of this project is to create meaningful data visualizations using Ma
 1. Iris Dataset:
 - Loaded using sklearn (no external file required)
 - Contains measurements of iris flowers
+
 Columns include:
 sepal_length, sepal_width, petal_length, petal_width, species
 2. Loan Dataset:
 - CSV file loaded from local machine
 - Contains customer and loan-related information
+
 Relevant columns used:
 customer_income, home_ownership, Current_loan_status
