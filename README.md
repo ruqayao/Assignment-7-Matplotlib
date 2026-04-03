@@ -15,7 +15,7 @@ sepal_length, sepal_width, petal_length, petal_width, species
 
 Relevant columns used:
 customer_income, home_ownership, Current_loan_status
-# Input file requirements
+# Input File Requirements
 Loan Dataset CSV must:
 - Be properly formatted as a CSV file
 
